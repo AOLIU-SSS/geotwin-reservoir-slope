@@ -1,0 +1,8 @@
+{
+  "application": "岩土智策 GeoTwin",
+  "version": "2.2.0",
+  "deployment": "GitHub Pages",
+  "buildDate": "2026-11-05",
+  "siteUrl": "https://aoliu-sss.github.io/geotwin-reservoir-slope/",
+  "dataMode": "内置样例与用户本地导入"
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "file": "reservoir-slope.png",
+    "title": "库岸边坡与测点布置示意",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 5 / ppt/media/image18.png",
+    "note": "原PPT第5页，材料未给出此图精确场地，不能当作CYP当前现场",
+    "type": "source-image"
+  },
+  {
+    "file": "integrated-monitoring.png",
+    "title": "空天地多源协同感知",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 6 / ppt/media/image23.png",
+    "note": "原PPT第6页，监测手段说明图",
+    "type": "source-image"
+  },
+  {
+    "file": "insar-screening.png",
+    "title": "光学与SAR隐患筛查",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 8 / ppt/media/image36.png",
+    "note": "原PPT第8页，图中变形分区为原材料图示",
+    "type": "source-image"
+  },
+  {
+    "file": "uav-mapping.png",
+    "title": "无人机三维数据采集",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 10 / ppt/media/image45.png",
+    "note": "原PPT第10页，采集建模示意",
+    "type": "source-image"
+  },
+  {
+    "file": "slope-surface.png",
+    "title": "边坡表面地形",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 10 / ppt/media/image43.png",
+    "note": "原PPT第10页，三维建模素材，不含可用DEM或坐标",
+    "type": "source-image"
+  },
+  {
+    "file": "terrain-model.png",
+    "title": "轻量三维边坡模型",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 10 / ppt/media/image42.png",
+    "note": "原PPT第10页，模型展示图，无原始网格文件",
+    "type": "source-image"
+  },
+  {
+    "file": "point-cloud.png",
+    "title": "边坡点云与高程可视化",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 10 / ppt/media/image41.png",
+    "note": "原PPT第10页，渲染图，不是原始点云",
+    "type": "source-image"
+  },
+  {
+    "file": "original-warning-screen.jpg",
+    "title": "原平台预测预警界面",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 12 / ppt/media/image55.jpg",
+    "note": "原PPT第12页，历史截图，不能当作当前在线告警",
+    "type": "source-image"
+  },
+  {
+    "file": "original-monitoring-screen.jpg",
+    "title": "原平台实时监测界面",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 12 / ppt/media/image54.jpg",
+    "note": "原PPT第12页，历史截图",
+    "type": "source-image"
+  },
+  {
+    "file": "field-acquisition.jpg",
+    "title": "拉哇现场数据采集设备安装",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 14 / ppt/media/image62.jpg",
+    "note": "原PPT第14页，拉哇面板堆石坝装备案例",
+    "type": "source-image"
+  },
+  {
+    "file": "field-sensor.jpg",
+    "title": "拉哇柔性位移计埋设保护",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 14 / ppt/media/image61.jpg",
+    "note": "原PPT第14页，拉哇面板堆石坝装备案例",
+    "type": "source-image"
+  },
+  {
+    "file": "field-construction.jpg",
+    "title": "拉哇现场沟槽开挖与铺垫",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 14 / ppt/media/image60.jpg",
+    "note": "原PPT第14页，拉哇面板堆石坝装备案例",
+    "type": "source-image"
+  },
+  {
+    "file": "insar-history.jpg",
+    "title": "澜沧江某边坡时序InSAR",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 15 / ppt/media/image66.jpg",
+    "note": "原PPT第15页，历史2015–2023空间变形图",
+    "type": "source-image"
+  },
+  {
+    "file": "reservoir-case.jpg",
+    "title": "澜沧江库岸案例三维场景",
+    "source": "项目PPT-库岸边坡智策.pptx",
+    "location": "Slide 15 / ppt/media/image65.jpg",
+    "note": "原PPT第15页，原系统渲染截图，含界面文字",
+    "type": "source-image"
+  },
+  {
+    "file": "sensing-system.png",
+    "title": "空天地内一体化监测手段",
+    "source": "空-天-地-内一体化监测手段.png",
+    "location": "完整原图",
+    "note": "原始材料原样复制；包含坝基场景的内容仅作为材料背景，不表示库岸平台已运行验证",
+    "type": "source-image"
+  },
+  {
+    "file": "landslide.gif",
+    "title": "滑坡过程示意动图",
+    "source": "滑坡动图.gif",
+    "location": "完整原图",
+    "note": "原始材料原样复制；包含坝基场景的内容仅作为材料背景，不表示库岸平台已运行验证",
+    "type": "source-image"
+  },
+  {
+    "file": "platform-architecture.png",
+    "title": "统一平台及双场景技术逻辑",
+    "source": "绘图/统一平台及双场景技术逻辑.png",
+    "location": "完整原图",
+    "note": "原始材料原样复制；包含坝基场景的内容仅作为材料背景，不表示库岸平台已运行验证",
+    "type": "source-image"
+  },
+  {
+    "file": "engineering-cases.png",
+    "title": "典型工程应用与效益说明",
+    "source": "绘图/项目典型工程应用与效益验证.png",
+    "location": "完整原图",
+    "note": "原始材料原样复制；包含坝基场景的内容仅作为材料背景，不表示库岸平台已运行验证",
+    "type": "source-image"
+  },
+  {
+    "file": "field-drone.mp4",
+    "title": "现场无人机起飞素材",
+    "source": "航拍视频.mp4",
+    "location": "完整10.59秒原视频，H.264转码，去除音轨",
+    "note": "竖屏现场起飞素材，并非库岸三维航线或实时视频",
+    "type": "source-video"
+  },
+  {
+    "file": "reservoir-animation.mp4",
+    "title": "库区大坝三维演示素材",
+    "source": "素材3.mp4",
+    "location": "完整21.96秒原视频",
+    "note": "3D动画渲染，非现场航拍或实时孪生数据",
+    "type": "source-video"
+  },
+  {
+    "file": "reference-zg-gnss.jpeg",
+    "title": "ZG滑坡体GNSS监测原系统",
+    "source": "水工程数字孪生平台边坡部分.pptx",
+    "location": "Slide 16 / ppt/media/image41.jpeg",
+    "note": "水工程数字孪生平台边坡部分第16页；历史截图，仅作工程场景参考，GNSS点位/曲线不作为本平台实测",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-zg-ground-sar.jpeg",
+    "title": "ZG滑坡体地基SAR监测原系统",
+    "source": "水工程数字孪生平台边坡部分.pptx",
+    "location": "Slide 17 / ppt/media/image42.jpeg",
+    "note": "水工程数字孪生平台边坡部分第17页；历史截图，展示区域变形热力与点位时序联动",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-zg-insar.jpeg",
+    "title": "ZG滑坡体InSAR监测原系统",
+    "source": "水工程数字孪生平台边坡部分.pptx",
+    "location": "Slide 17 / ppt/media/image43.jpeg",
+    "note": "水工程数字孪生平台边坡部分第17页；历史截图，InSAR监测与点位时序联动",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-field-sensors.png",
+    "title": "库岸GNSS雨量计测斜仪布设参考",
+    "source": "水工程数字孪生平台边坡部分.pptx",
+    "location": "Slide 20 / ppt/media/image48.png",
+    "note": "水工程数字孪生平台边坡部分第20页；原图例来源，设备位置并未配准到演示地形",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-online-task.png",
+    "title": "原系统全域变形预测任务配置",
+    "source": "水工程数字孪生平台边坡部分.pptx",
+    "location": "Slide 21 / ppt/media/image52.png",
+    "note": "水工程数字孪生平台边坡部分第21页；任务时间和模式选择的UI参考，不能据此声称本平台调用原系统模型",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-online-forecast.png",
+    "title": "原系统累计与增量位移预测结果",
+    "source": "水工程数字孪生平台边坡部分.pptx",
+    "location": "Slide 21 / ppt/media/image51.png",
+    "note": "水工程数字孪生平台边坡部分第21页；原模型历史结果截图，不是本平台独立运行结果",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-prediction-modes.png",
+    "title": "原系统预测模式选择",
+    "source": "水工程数字孪生平台边坡部分.pptx",
+    "location": "Slide 21 / ppt/media/image50.png",
+    "note": "水工程数字孪生平台边坡部分第21页；自动匹配、InSAR单源、GNSS辅助、GNSS融合四种界面选项",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-online-warning.png",
+    "title": "原系统异常连通分布与在线预警结果",
+    "source": "水工程数字孪生平台边坡部分.pptx",
+    "location": "Slide 22 / ppt/media/image53.png",
+    "note": "水工程数字孪生平台边坡部分第22页；原模型历史结果截图，日期和异常占比不得作为当前数据",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-slope-simulation.png",
+    "title": "边坡智能仿真模型结果原系统",
+    "source": "服务国家重大水利工程建设-2026年7月30日.pptx",
+    "location": "Slide 8 / ppt/media/image15.png",
+    "note": "服务国家重大水利工程建设第8页；边坡位移分量、变形显示、色标与剖切UI参考，非本软件求解成果",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-anomaly-evolution.png",
+    "title": "异常出现局部连通与贯通关系",
+    "source": "水工程数字孪生平台边坡部分.pptx",
+    "location": "Slide 14 / ppt/media/image37.png",
+    "note": "水工程数字孪生平台边坡部分第14页；研究方法示意，不代表本平台预测或验证",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-simulation-controls.png",
+    "title": "边坡模型显示与图例剖切控件",
+    "source": "服务国家重大水利工程建设-2026年7月30日.pptx",
+    "location": "Slide 8 / ppt/media/image14.png",
+    "note": "服务国家重大水利工程建设第8页；图例、分量和切片控件参考",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-web-monitoring-frame.jpg",
+    "title": "原系统录屏：边坡测点曲线与降雨联动",
+    "source": "网页视频.pptx",
+    "location": "Slide 1 / ppt/media/media1.mp4 / 14.80s",
+    "note": "内嵌视频代表帧；历史原系统画面，仅借鉴库岸边坡监测与结果展示方式，不表示本平台已接入原系统",
+    "type": "reference-image"
+  },
+  {
+    "file": "reference-web-field-result-frame.jpg",
+    "title": "原系统录屏：全坡位移云图结果弹窗",
+    "source": "网页视频.pptx",
+    "location": "Slide 1 / ppt/media/media1.mp4 / 23.68s",
+    "note": "内嵌视频代表帧；历史原系统画面，仅借鉴库岸边坡监测与结果展示方式，不表示本平台已接入原系统",
+    "type": "reference-image"
+  }
+]
